@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/makotot/renovate-automerge-playground/compare/v1.0.2...v1.0.3) (2023-02-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency zod to v3.20.5 ([faabc4d](https://github.com/makotot/renovate-automerge-playground/commit/faabc4d69e30fbbd262462658d58f6e77e91ecff))
+
 ## [1.0.2](https://github.com/makotot/renovate-automerge-playground/compare/v1.0.1...v1.0.2) (2023-02-08)
 
 
