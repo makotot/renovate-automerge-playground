@@ -38,6 +38,6 @@
     "access": "public"
   },
   "dependencies": {
-    "zod": "3.21.2"
+    "zod": "3.21.4"
   }
 }
